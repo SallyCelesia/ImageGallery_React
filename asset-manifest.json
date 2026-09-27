@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/SallyCelesia/ImageGallery_React/static/css/main.bb5c3672.css",
-    "main.js": "/SallyCelesia/ImageGallery_React/static/js/main.0cbf6727.js",
-    "index.html": "/SallyCelesia/ImageGallery_React/index.html",
-    "main.bb5c3672.css.map": "/SallyCelesia/ImageGallery_React/static/css/main.bb5c3672.css.map",
-    "main.0cbf6727.js.map": "/SallyCelesia/ImageGallery_React/static/js/main.0cbf6727.js.map"
+    "main.css": "/ImageGallery_React/static/css/main.bb5c3672.css",
+    "main.js": "/ImageGallery_React/static/js/main.0cbf6727.js",
+    "index.html": "/ImageGallery_React/index.html",
+    "main.bb5c3672.css.map": "/ImageGallery_React/static/css/main.bb5c3672.css.map",
+    "main.0cbf6727.js.map": "/ImageGallery_React/static/js/main.0cbf6727.js.map"
   },
   "entrypoints": [
     "static/css/main.bb5c3672.css",
