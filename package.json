@@ -1,7 +1,7 @@
 {
   "name": "react-exrecises",
   "version": "0.1.0",
-  "homepage": "https://github.com/SallyCelesia/ImageGallery_React",
+  "homepage": "https://SallyCelesia.github.io/ImageGallery_React",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.2",
